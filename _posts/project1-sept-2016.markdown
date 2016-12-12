@@ -2,7 +2,6 @@
 layout: default
 modal-id: 1
 date: 2016-09-16
-title: Tick-Tac-Thor
 img: submarine.png
 alt: image-alt
 project-date: September 2016

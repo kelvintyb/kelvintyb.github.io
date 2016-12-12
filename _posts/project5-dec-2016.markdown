@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 5
-title: NekoNet
 date: 2016-12-09
 img: submarine.png
 alt: image-alt

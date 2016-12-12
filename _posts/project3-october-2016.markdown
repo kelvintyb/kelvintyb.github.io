@@ -2,7 +2,6 @@
 layout: default
 modal-id: 3
 date: 2014-10-28
-title: Artery (WIP)
 img: submarine.png
 alt: image-alt
 project-date: October 2016

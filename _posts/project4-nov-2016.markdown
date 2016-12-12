@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 4
-title: MealBox
 date: 2016-11-18
 img: submarine.png
 alt: image-alt

@@ -2,7 +2,6 @@
 layout: default
 modal-id: 2
 date: 2016-10-07
-title: Swarmed
 img: submarine.png
 alt: image-alt
 project-date: October 2016
