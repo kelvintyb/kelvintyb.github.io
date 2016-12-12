@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Kelvin Tan - Full Stack Web Development
+email: kelvin.tyb@gmail.com
+url: https://kelvintyb.github.io
+description: "Portfolio site for Kelvin Tan Yeow Boon - Full Stack Web Developer."
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Tan Kelvin
 
 # Google webmaster tools
 google_verify:
@@ -51,8 +51,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Mostly traipsing around the East
-  - line: Singapore
+  - line: Mostly traipsing around the East of Singapore
 
 # Build settings
 markdown: kramdown
