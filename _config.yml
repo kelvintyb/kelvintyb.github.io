@@ -27,9 +27,9 @@ color:
   primary: CF6766 #CF6766
   primary-rgb: "207,103,102" #"128,179,255"
   secondary: 30415D #30415D
-  secondary-dark: 031424 #031424
+  secondary-dark: 30415D #031424
 
-# Footer settings
+# Footer settingsatom
 footer:
   copyright: Kelvin Tan Yeow Boon
   location: Location
