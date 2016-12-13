@@ -1,24 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Wire+One);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
-@font-face {
-  font-family: devicon;
-  src: url(https://cdn.rawgit.com/konpa/devicon/master/fonts/devicon.eot?-hdf3wh);
-  font-weight: 400;
-  font-style: normal
-}
-
-[class*=" devicon-"], [class^=devicon-] {
-  font-family: devicon;
-  speak: none;
-  font-style: normal;
-  font-weight: 400;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale
-}
-
 .devicon-ssh-original-wordmark:before, .devicon-ssh-plain-wordmark:before {
   content: "\e900"
 }
@@ -999,16 +978,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block
 }
 
-body {
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  font-family: "Raleway";
-  overflow-x: hidden;
-  min-width: 320px;
-  overflow-y: hidden;
-  background-color: #141414
-}
-
 ol, ul {
   list-style: none
 }
@@ -1042,15 +1011,6 @@ table {
 .lb .section, .popupOpen .section {
   -webkit-filter: blur(5px);
   filter: blur(5px)
-}
-
-input:-webkit-autofill, input:-webkit-autofill:focus {
-  -webkit-box-shadow: 0 0 0 50px #141414 inset;
-  -webkit-text-fill-color: #aaafaf
-}
-
-input:-moz-ui-invalid:not(output), textarea:-moz-ui-invalid:not(output) {
-  box-shadow: 0 0 1.5px 1px transparent
 }
 
 a, button {
