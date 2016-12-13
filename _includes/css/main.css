@@ -1,8 +1,21 @@
 body {
     overflow-x: hidden;
 }
+
 li{
   list-style: none;
+}
+.skill-icons li:nth-of-type(even) {
+  padding: 0px 100px 0px 0px;
+}
+.skill-icons li:nth-of-type(odd) {
+  padding: 0px 0px 0px 100px;
+}
+
+
+li i {
+  font-size: 70px;
+  transform-style: preserve-3d;
 }
 p {
     font-size: 20px;
