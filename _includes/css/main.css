@@ -1,7 +1,9 @@
 body {
     overflow-x: hidden;
 }
-
+li{
+  list-style: none;
+}
 p {
     font-size: 20px;
 }
