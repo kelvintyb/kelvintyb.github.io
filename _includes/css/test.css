@@ -3,7 +3,6 @@
 @font-face {
   font-family: devicon;
   src: url(https://cdn.rawgit.com/konpa/devicon/master/fonts/devicon.eot?-hdf3wh);
-  src: url(https://cdn.rawgit.com/konpa/devicon/master/fonts/devicon.eot?#iefix-hdf3wh) format("embedded-opentype"), url(https://cdn.rawgit.com/konpa/devicon/master/fonts/devicon.woff?-hdf3wh) format("woff"), url(https://cdn.rawgit.com/konpa/devicon/master/fonts/devicon.ttf?-hdf3wh) format("truetype"), url(https://cdn.rawgit.com/konpa/devicon/master/fonts/devicon.svg?-hdf3wh#devicon) format("svg");
   font-weight: 400;
   font-style: normal
 }
