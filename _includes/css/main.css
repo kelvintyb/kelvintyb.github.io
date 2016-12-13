@@ -5,6 +5,9 @@ body {
 li{
   list-style: none;
 }
+.skill-icons{
+  color: #4717F6;
+}
 .skill-icons li:nth-of-type(even) {
   padding: 0px 100px 0px 0px;
 }
@@ -12,8 +15,7 @@ li{
   padding: 0px 0px 0px 100px;
 }
 
-
-li i {
+.skill-icons i {
   font-size: 70px;
   transform-style: preserve-3d;
 }
