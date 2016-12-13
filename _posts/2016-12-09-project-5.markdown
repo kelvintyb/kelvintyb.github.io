@@ -2,11 +2,12 @@
 layout: default
 modal-id: 5
 date: 2016-12-09
-img: submarine.png
+img: nekonet.png
 alt: image-alt
 project-date: December 2016
-website: Start Bootstrap
-source-code: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+website: nekonet.herokuapp.com
+website-url: https://nekonet.herokuapp.com
+source-code: Github
+github-url: https://github.com/kelvintyb/nekonet
+description: Built a cat adoption platform app with React.js and Firebase. Features include realtime chat & like functionality.
 ---
